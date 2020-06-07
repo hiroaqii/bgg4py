@@ -90,7 +90,7 @@ print(ret.schema())
 
 # output example
 print(ret.item_list[0].image)
-print(retret.item_list[0])
+print(ret.item_list[0])
 print(ret.item_list[0].status)
 print(ret.item_list[0].status.lastmodified)
 print("\n".join([item.name for item in ret.item_list]))
