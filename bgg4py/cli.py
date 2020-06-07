@@ -79,7 +79,10 @@ def search(query: str, exact=False):
 
 
 def p(obj: Bgg):
-    print(json.dumps(obj.dict(), indent=4, ensure_ascii=False))
+    if obj is None:
+        print("Not Found 🤔")
+    else:
+        print(json.dumps(obj.dict(), indent=4, ensure_ascii=False))
 
 
 def main():
