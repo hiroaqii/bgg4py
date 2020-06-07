@@ -2,6 +2,10 @@
 
 bgg4py is a Boardgamegeek API wrapper.
 
+<a href="https://pypi.org/project/bgg4py" target="_blank">
+    <img src="https://badge.fury.io/py/bgg4py.svg" alt="Package version">
+</a>
+
 ## Requirements
 
 Python 3.7+
