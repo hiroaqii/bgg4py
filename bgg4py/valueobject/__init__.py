@@ -1,3 +1,4 @@
+from .bgg import Bgg
 from .family_items import FamilyItem
 from .forrum_list import ForumList
 from .forrum_list import Forum
