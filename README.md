@@ -16,6 +16,11 @@ Python 3.7+
 $ pip install bgg4py
 ```
 
+## Installs
+[![Downloads](https://pepy.tech/badge/bgg4py)](https://pepy.tech/project/bgg4py)
+[![Downloads](https://pepy.tech/badge/bgg4py/month)](https://pepy.tech/project/bgg4py)
+[![Downloads](https://pepy.tech/badge/bgg4py/week)](https://pepy.tech/project/bgg4py)
+
 ## Example
 
 ### CLI
